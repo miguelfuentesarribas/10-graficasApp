@@ -103,5 +103,7 @@
       }
     }
   },
-  "defaultProject": "graficasApp"
+  "cli": {
+    "analytics": false
+  }
 }
