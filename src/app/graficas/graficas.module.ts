@@ -10,6 +10,7 @@ import { GraficaBarraComponent } from './components/grafica-barra/grafica-barra.
 import { NgChartsModule } from 'ng2-charts';
 
 
+
 @NgModule({
   declarations: [
     BarrasComponent,
